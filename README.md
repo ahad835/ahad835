@@ -8,9 +8,9 @@ I am the person who makes sure that **it works on my machine** applies to everyo
 **Languages and Tools:**  
 DevOps • Cloud • Virtualization • Web Hosting • Microservices • Containers • CI/CD Pipelines • Monitoring • Automation
 
-**📫 How to reach me?**
-**Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulahad77/)** 👨🏻‍💻
-**Email:** [abdulahadfay@gmail.com](mailto:abdulahadfay@gmail.com)
+**📫 How to reach me?**  
+ **Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulahad77/)** 👨🏻‍💻  
+ **Email:** [abdulahadfay@gmail.com](mailto:abdulahadfay@gmail.com)
 
 I’m looking to collaborate on Cloud-native Projects.
 

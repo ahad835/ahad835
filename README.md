@@ -12,15 +12,13 @@ DevOps • Cloud • Virtualization • Web Hosting • Microservices • Contai
 
 **Programming Language Stack:**
 
-<img src="https://camo.githubusercontent.com/b12f5974f22654ef48a4f981aaab21dfd0597c8d5e48de11315744ef5e5added/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="Golang" width="50" /> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" /> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go" width="50" /> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="50" />
+<img src="https://camo.githubusercontent.com/b12f5974f22654ef48a4f981aaab21dfd0597c8d5e48de11315744ef5e5added/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="Golang" width="50" style="display:inline;"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" style="display:inline;"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go" width="50" style="display:inline;"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="50" style="display:inline;"/>
 
 I’m looking to collaborate on Cloud-native Projects.
 
-
-I’m looking to collaborate on Cloud-native Projects.
 
 
 
